@@ -1,7 +1,6 @@
-numpy
 scipy
-scikit-learn
-matplotlib
 pandas
-biopython
-geoparse
+seaborn
+GEOparse
+numpy
+matplotlib
